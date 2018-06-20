@@ -1,0 +1,76 @@
+.body{
+ justify-content: space-around;
+}
+.container{
+    width:60%;
+    height: 600px;
+    margin:40px 300px 20px 400px;
+    
+    background-repeat: repeat;
+    border:2px solid red;
+    overflow: hidden;
+    padding-left: 10px;
+    
+
+}
+.header{
+    text-align: center;
+    
+    padding:20px;
+    font-size:30px;
+    
+}
+.charactor{
+    text-align: center;
+}
+.charactor1,.charactor2,.charactor3,.charactor4,
+.charactorp1,.charactorp2,.charactorp3,.charactorp4
+
+{   position: relative;
+    float: left;
+    border:2px solid green;
+    padding-left: 10px;
+    padding-right:10px;
+    background-color:white;
+}
+
+.image{
+    width:120px;
+    height: 80px;
+    
+}
+.playing-area{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif
+}
+.your-charactor{
+    clear: both;
+}
+.charactor-title{
+    
+}
+.charactor-pic{
+    background-color:red;
+}
+.charactorp1, .charactorp2, .charactorp3, .charactorp4{
+    background-color:red;
+}
+.enemies{
+    clear: both;
+    
+}
+.charactord{
+    clear: both;
+}
+.charactord1,.charactord2,.charactord3,.charactord4{
+    background-color: black;
+    color:whitesmoke;
+    float: left;
+    border:2px solid green;
+    padding-left: 10px;
+    padding-right:10px;
+   
+}
+.result-row{
+    clear: both;
+}
