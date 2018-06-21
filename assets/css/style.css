@@ -3,7 +3,7 @@
 }
 .container{
     width:60%;
-    height: 600px;
+    height: 800px;
     margin:40px 300px 20px 400px;
     
     background-repeat: repeat;
@@ -59,7 +59,7 @@
     clear: both;
     
 }
-.charactord{
+.fight{
     clear: both;
 }
 .charactord1,.charactord2,.charactord3,.charactord4{
